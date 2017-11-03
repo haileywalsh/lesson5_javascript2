@@ -4,20 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3, 2017
 
 ### Student Name:  
-(First and Last Name)
+Hailey Walsh
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project we used code to compute a tax calculator. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://haileywalsh.github.io/lesson5_javascript2/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The onclick method is used when each buttion needs to be associated with one specific function.
+2. The purpose of the calculateTax method is to determine the numbers one must input then it will caculate your taxes. 
+3. The .getElementById() method can identify a place in the HTML document where the celcuation results will be stored. 
 
+
+ 
